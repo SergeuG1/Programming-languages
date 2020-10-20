@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\bin\Debug\lab3_graphics.exe.config
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\bin\Debug\lab3_graphics.exe
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\bin\Debug\lab3_graphics.pdb
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\obj\Debug\lab3_graphics.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\obj\Debug\lab3_graphics.Form1.resources
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\obj\Debug\lab3_graphics.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\obj\Debug\lab3_graphics.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\obj\Debug\lab3_graphics.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\obj\Debug\lab3_graphics.exe
+C:\Users\ADMIN\source\repos\lab3_graphics\lab3_graphics\obj\Debug\lab3_graphics.pdb
