@@ -1,0 +1,10 @@
+C:\Языки программирования\c#\Комп графика\Lab2\bin\Debug\Lab2.exe.config
+C:\Языки программирования\c#\Комп графика\Lab2\bin\Debug\Lab2.exe
+C:\Языки программирования\c#\Комп графика\Lab2\bin\Debug\Lab2.pdb
+C:\Языки программирования\c#\Комп графика\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Языки программирования\c#\Комп графика\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Языки программирования\c#\Комп графика\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Языки программирования\c#\Комп графика\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Языки программирования\c#\Комп графика\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Языки программирования\c#\Комп графика\Lab2\obj\Debug\Lab2.exe
+C:\Языки программирования\c#\Комп графика\Lab2\obj\Debug\Lab2.pdb
