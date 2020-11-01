@@ -1,0 +1,10 @@
+C:\Programming languages\c#\Комп графика\lab4\bin\Debug\lab4.exe.config
+C:\Programming languages\c#\Комп графика\lab4\bin\Debug\lab4.exe
+C:\Programming languages\c#\Комп графика\lab4\bin\Debug\lab4.pdb
+C:\Programming languages\c#\Комп графика\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Programming languages\c#\Комп графика\lab4\obj\Debug\lab4.Form1.resources
+C:\Programming languages\c#\Комп графика\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Programming languages\c#\Комп графика\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Programming languages\c#\Комп графика\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Programming languages\c#\Комп графика\lab4\obj\Debug\lab4.exe
+C:\Programming languages\c#\Комп графика\lab4\obj\Debug\lab4.pdb
