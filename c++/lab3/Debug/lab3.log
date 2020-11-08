@@ -1,2 +1,4 @@
-﻿  main.cpp
+﻿  CustomExptrssionEvaluator.cpp
+C:\Programming languages\c++\lab3\CustomExptrssionEvaluator.cpp(62,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Programming languages\c++\lab3\CustomExptrssionEvaluator.cpp(86,23): warning C4018: <: несоответствие типов со знаком и без знака
   lab3.vcxproj -> C:\Programming languages\c++\lab3\Debug\lab3.exe
