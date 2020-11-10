@@ -11,3 +11,16 @@ CustomExpressionEvaluator
 <2>
 (-1.5)  times  80  diveded by  
 <Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 38.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
