@@ -87,9 +87,9 @@ int main() {
 
 
 	ex[0] = new Subtractor(6);
-	double* ops_sum = new double[6]{ 120, -12,83.2, -1.5, 5 , 7 };
+	double* ops_sum = new double[6]{ 120, -12, 83.2, -1.5, 5 , 7 };
 	ex[0]->setOperands(ops_sum, 6);
-
+	
 
 	ex[1] = new Multiplier(4);
 	double* ops_mult = new double[4]{ 5,10, -2.5, -40};
@@ -101,12 +101,23 @@ int main() {
 	for (int i = 0; i < 2; i++)
 		ex[2]->setOperand(i, ops_custom[i]);
 
+	ex[1]->shuffle();
+
 
 	for (int i = 0; i < l; ++i)
 	{
 		ex[i]->logToScreen();
 		ex[i]->logToFile("log.txt");
 	}
+	
+
+
+	for (size_t i = 0; i < l; i++)
+	{
+		ex[i]->shuffle(2,3);
+		ex[i]->logToScreen();
+	}
+
 
 
 }

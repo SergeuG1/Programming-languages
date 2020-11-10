@@ -25,7 +25,8 @@ public:
 	{
 	
 	}
-
+	void shuffle();
+	void shuffle(size_t i, size_t j);
 	virtual double calculate() = 0;
 protected:
 	int length;

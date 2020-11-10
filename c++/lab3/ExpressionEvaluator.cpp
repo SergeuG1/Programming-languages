@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-
+#include <algorithm>
 using namespace std;
 
 ExpressionEvaluator::ExpressionEvaluator()
@@ -47,3 +47,27 @@ void logToFile(const std::string& filename) {
 
 }
 
+void ExpressionEvaluator::shuffle() {
+
+	std::random_shuffle(operands, operands + length);
+}
+void ExpressionEvaluator::shuffle(size_t i, size_t j)
+{
+	double temp = 0;
+	try
+	{
+		if (operands[i] != (int)operands[i] || operands[j] != (int)operands[j])
+		{
+			swap(operands[i], operands[j]);
+		}
+		else
+		{
+			/*ничего*/
+		}
+	}
+	catch (const std::exception& ex)
+	{
+		cout << ex.what() << endl;
+	}
+
+}
