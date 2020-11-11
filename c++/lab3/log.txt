@@ -1,6 +1,401 @@
 
 Subtractor
 <6>
+2.10535e-314  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: -81.7>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+2.10535e-314  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: -81.7>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+CustomExpressionEvaluator
+<2>
+(0)  times  (0)  diveded by  
+<Result: 0>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+(0)  times  (0)  diveded by  (0)  times  (0)  diveded by  
+<Result: 0>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+(0)  times  (0)  diveded by  (0)  times  (0)  diveded by  
+<Result: 0>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+(0)  times  (0)  diveded by  (0)  times  (0)  diveded by  
+<Result: 0>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  
+<Result: 180760>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  
+<Result: 180760>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  
+<Result: 180760>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  
+<Result: 180760>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  
+<Result: 180760>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  
+<Result: 180760>
+
+Subtractor
+<6>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 39>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+Multiplier
+<4>
+120.7  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  
+<Result: 180760>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 38.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 38.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
 120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
 <Result: 38.3>
 Multiplier
@@ -31,7 +426,7 @@ Subtractor
 <Result: 38.3>
 Multiplier
 <4>
-5  times  10  diveded by  (-40)  times  (-2.5)  diveded by  
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
 <Result: 5000>
 CustomExpressionEvaluator
 <2>
@@ -44,7 +439,7 @@ Subtractor
 <Result: 38.3>
 Multiplier
 <4>
-5  times  10  diveded by  (-40)  times  (-2.5)  diveded by  
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
 <Result: 5000>
 CustomExpressionEvaluator
 <2>
@@ -57,9 +452,210 @@ Subtractor
 <Result: 38.3>
 Multiplier
 <4>
-5  times  10  diveded by  (-40)  times  (-2.5)  diveded by  
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
 <Result: 5000>
 CustomExpressionEvaluator
 <2>
 (-1.5)  times  80  diveded by  
 <Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 38.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 38.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 38.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  2.10535e-314  diveded by  83.2  times  (-1.5)  diveded by  5  times  83.2  diveded by  
+<Result: -49.9>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  2.10535e-314  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 26.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  (-1.45682e+144)  times  (-1.5)  diveded by  5  times  83.2  diveded by  
+<Result: 1.45682e+144>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+CustomExpressionEvaluator
+<2>
+(-1.5)  times  80  diveded by  
+<Result: -120>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  83.2  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 38.3>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  8.90075e-308  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>

@@ -56,5 +56,5 @@ void Multiplier::logToFile(const string& filename)
 }
 Multiplier::~Multiplier()
 {
-	delete[] operands;
+	cout << "M" << endl;
 }

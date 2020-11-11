@@ -55,5 +55,6 @@ void Subtractor::logToFile(const string& filename)
 }
 Subtractor::~Subtractor()
 {
-	delete[] operands;
+	cout << "S" << endl;
+
 }

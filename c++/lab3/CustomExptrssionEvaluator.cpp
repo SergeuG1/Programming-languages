@@ -52,7 +52,8 @@ void CustomExpressionEvaluator::swap(double& i, double& j) {
 }
 CustomExpressionEvaluator::~CustomExpressionEvaluator()
 {
-	delete[] operands;
+	cout << "C" << endl;
+
 }
 void CustomExpressionEvaluator::logToScreen()
 {
