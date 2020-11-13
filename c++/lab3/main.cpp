@@ -120,9 +120,20 @@ int main() {
 	{
 		ex[i]->logToScreen();
 	}
+	for (int i = 0; i < l; i++) {
+		IShuffle* shuffleCheck = dynamic_cast<IShuffle*>(ex[i]);
+		if (shuffleCheck) {
+			ex[i]->logToScreen();
+		}
+	}
+
+
 	for (size_t i = 0; i < l; i++)
 	{
 		delete ex[i];
 	}
+
+
+
 }
 

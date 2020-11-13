@@ -659,3 +659,21 @@ Multiplier
 <4>
 5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
 <Result: 5000>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
+
+Subtractor
+<6>
+120  times  (-12)  diveded by  2.10535e-314  times  (-1.5)  diveded by  5  times  7  diveded by  
+<Result: 121.5>
+Multiplier
+<4>
+5  times  10  diveded by  (-2.5)  times  (-40)  diveded by  
+<Result: 5000>
